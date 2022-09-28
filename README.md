@@ -1,7 +1,7 @@
 # Shop.com - clone
 Shop.com is an e-commerce website which has presence in US, Canada, Australia, Malayasia, Singapore.
 
-Deployed Link: dikshaa2000.github.io/shop.com/
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodejs&color=#79aa5d)
 
 ## Introduction
 This is a clone of website shop.com, The project was awarded to us by Masai School. We have tried to complete the basic functionality of the website and also tried to make the website as responsive as possible. In the given timeframe of only 5 days.
